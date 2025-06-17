@@ -1,4 +1,4 @@
-<h1 align='center'>Projeto Filas</h1>
+<h1 align='center'>Projeto Atendimento V1</h1>
 <br>
 <p align='left'>Projeto para a disciplina de Estrutura de Dados sobre Filas em C++. O objetivo foi construir um programa que simule uma fila de atendimento de um comércio, simulando a retirada e o atendimento de senhas na ordem de chegada. Desenvolvido como trabalho acadêmico, o projeto demonstra aplicações práticas de conceitos como estruturas, funções, filas, lista encadeadas, tipos de dados, ponteiros e laços de repetição.</p>
 <h2 align="center">📚 Ferramentas utilizadas</h2>
